@@ -1,6 +1,7 @@
 --- some new lines ---
 --- blah blah blah ---
-
+/// more new lines ///
+/// more more more ///
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
